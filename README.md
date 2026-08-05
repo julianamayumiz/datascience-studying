@@ -11,7 +11,7 @@ Foco: métricas de erro, correlação, linearidade e interpretação de modelos.
 |---|---|---|---|
 | [01 - Custos Médicos](./01-custos-medicos) | Previsão de custo de seguro médico | ✅ Concluído | Correlação, p-valor, coeficientes, RMSE/R², diagnóstico de resíduos |
 | [02 - Precificação de Veículos Usados](./02-precificacao-veiculos-usados) | Previsão de preço de revenda de carros usados | ✅ Concluído | One-Hot Encoding, multicolinearidade, overfitting vs. underfitting, Regularização L1/L2 (Ridge/Lasso), padronização, investigação de outliers |
-| [03 - Preços de Passagens Aéreas](./03-precos-passagens-aereas) | Previsão de preço de passagens aéreas | ⏳ Pendente | Regressão não-linear, Random Forest Regressor, XGBoost, comparação árvore vs. linear |
+| [03 - Preços de Passagens Aéreas](./03-passagens-aereas) | Previsão de preço de passagens aéreas | ✅ Concluído | Regressão não-linear, Random Forest Regressor, XGBoost, comparação árvore vs. linear |
 
 ## Ferramentas utilizadas
 
